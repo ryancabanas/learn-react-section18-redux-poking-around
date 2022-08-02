@@ -1,0 +1,22 @@
+{
+  "name": "learn-react-section18-redux-poking-around",
+  "version": "1.0.0",
+  "description": "",
+  "main": "redux-demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryancabanas/learn-react-section18-redux-poking-around.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryancabanas/learn-react-section18-redux-poking-around/issues"
+  },
+  "homepage": "https://github.com/ryancabanas/learn-react-section18-redux-poking-around#readme",
+  "dependencies": {
+    "redux": "^4.2.0"
+  }
+}
